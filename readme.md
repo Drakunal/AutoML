@@ -116,9 +116,3 @@ print(trained_model)
 This project is licensed under the MIT License. Feel free to use and modify the code.
 ```
 
-5. **Key Features**: Summarizes what the pipeline offers in terms of automated model selection and version control.
-6. **Future Work**: Suggests possible future extensions for the project.
-
-This file will serve as a helpful guide for anyone using your code, detailing how to run the pipeline, save models, and reload them for inspection.
-
-Let me know if you'd like any adjustments or additional information!
